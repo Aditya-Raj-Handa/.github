@@ -100,7 +100,7 @@ Joined the club in 2022. With the determination to grow, he is ready to face all
 
 12. **Vibhu Khera:**
 
-Joined Verge in 2022 as a team in Bidcars project as a frontend flutter developer currently on his way to become a full stack developer with web and app developer.
+He joined verge in 2022 as an intern at Bidcars project. Vibhu is a front-end web and application developer with flutter for app development and HTML, CSS, and JS for the web. He is on his way to learning many more things in the front end and will also be parallelly learning backend working with Node JS, Java Scrip, and React JS, integrating them with applications.
 
 13. **Tanish Sharma:**
 
